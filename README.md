@@ -12,8 +12,8 @@
 
 ## Eclipse plugin Snake Vedio Game: 
 
-**Tools Used:** Eclipse.
+**Tools Used:** Eclipse PDE
 
 ## Snake Multiplayer Game:
 
-**Tools Used:** Eclipse
+**Tools Used:** Eclipse Arch Studio
